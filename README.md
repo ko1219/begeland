@@ -16,25 +16,12 @@
 
 This app uses:
 
-- React version: `16.12.0`
-- React Hooks API
-- React Context API
+- Ruby 2.6.5
+- Ruby on Rails 6.1.0
 
 ---
 
 # Apps Overview
 
-この website は、私自身のエンジニアの経歴とポートフォリオを紹介するものです。
-今後大学を卒業するまでに作ったアプリケーションをのせていきます。
-
-# How did I create this app?
-
-react で初めてウェブサイトを作りました。Bootstrap や React FontAwesome, React particle などのライブラリを使ってフロント部分を作り上げました。React 特有のページを部分ごとに分割していくやり方で開発しました。JSX という記法により JS ファイルの中に HTML をそのまま書き込めるような感覚でした。わざわざ get.elementById などのように HTML を取得するやり方よりもこの JSX の記法の方が可読性が高いと感じました。
-
-# What's amazing points about this app?
-
-Link to メソッドで Navbar を押すと参照したい箇所に遷移できるようにした事です。Footer の Contact Form では実際に私の gmail の方にポートフォリオに対するコメントなどを送信できるようにしました。
-
-# How should I improve this app?
-
-このアプリはまだ完成ではありません。Client の部分は自分が将来関わっていくエンジニアの方々を紹介できるように考えています。また,Experience の部分はまだ記入できていないので、自分のエンジニアとしての成長とともに随時記載したいと思います。
+この EC サイトは Solidus を使い作成しました。しかしまだ View をカスタマイズしていないので、未完成です。
+View のカスタマイズは Deface を使って作成していく予定です。
