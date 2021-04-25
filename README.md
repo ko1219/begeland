@@ -12,8 +12,6 @@
 
 ## ![Show](https://gyazo.com/dfa951de0936a72fb1ccdcbb8cb5c185.png)
 
-## ![demo](https://user-images.githubusercontent.com/73377107/115976746-0b735d80-a5ac-11eb-8973-b40cc47f2835/raw)
-
 ---
 
 This app uses:
