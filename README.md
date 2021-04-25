@@ -8,9 +8,9 @@
 
 ---
 
-## ![Home](https://i.gyazo.com/c764244a8b2d97a60bcc5fb026e0d7e4.jpg)
+## ![Home](https://gyazo.com/7a7bc34a1ef110b4e348808f2fea274e.png)
 
-## ![Portfolio](https://gyazo.com/9e1f40e99a78a8d439fa69fc9f24b13c.png)
+## ![Show](https://gyazo.com/dfa951de0936a72fb1ccdcbb8cb5c185.png)
 
 ---
 
